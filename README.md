@@ -71,7 +71,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[Expo Location](https://docs.expo.io/versions/latest/sdk/location/)**
 -   **[Expo Mail Composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)**
 
-> Veja o arquivo  [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/mobile/package.json)
+> Veja o arquivo  [package.json](https://github.com/diogomfc/appMetaSmart/blob/master/package.json)
 
 #### []**Utilitários**
 
