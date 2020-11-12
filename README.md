@@ -1,6 +1,6 @@
 </p>
 <h1 align="center">
-    <img alt="Tools Meta Smart" title="#Tools Meta Smart" src="./src/Circulo2.png" />
+    <img alt="Tools Meta Smart" title="#Tools Meta Smart" src="https://github.com/diogomfc/appMetaSmart/blob/master/src/img/Circulo2.png" height="300" width="300" />
 </h1>
 
 <h4 align="center"> 
@@ -39,18 +39,18 @@ Projeto desenvolvido para finalidades particular. O objetivo deste documento é 
 O layout da aplicação
 
 <h6 align="center">
-    <img src="./src/ImgTelas/preload.png" />
-    <img src="./src/ImgTelas/login.png" />
-    <img src="./src/ImgTelas/menu.png" />
-    <img src="./src/ImgTelas/metas.png" />
-    <img src="./src/ImgTelas/extrato.png" />
-    <img src="./src/ImgTelas/extratoClienteQualidade.png" />
-    <img src="./src/ImgTelas/extratoClienteEstavel.png" />
-    <img src="./src/ImgTelas/extratoClienteInstavel.png" />
-    <img src="./src/ImgTelas/extratoClienteChurn.png" />
-    <img src="./src/ImgTelas/ativacao.png" />
-    <img src="./src/ImgTelas/migracao.png" />
-    <img src="./src/ImgTelas/prospeccao.png" />
+    <img src="https://github.com/diogomfc/appMetaSmart/blob/master/src/img/ImgTelas/preload.png" height="375" width="183" />
+    <img src="https://github.com/diogomfc/appMetaSmart/blob/master/src/img/ImgTelas/login.png" height="375" width="183" />
+    <img src="https://github.com/diogomfc/appMetaSmart/blob/master/src/img/ImgTelas/menu.png" height="375" width="183" />
+    <img src="https://github.com/diogomfc/appMetaSmart/blob/master/src/img/ImgTelas/metas.png" height="375" width="183" />
+    <img src="https://github.com/diogomfc/appMetaSmart/blob/master/src/img/ImgTelas/extrato.png" height="375" width="183" />
+    <img src="https://github.com/diogomfc/appMetaSmart/blob/master/src/img/ImgTelas/extratoClienteQualidade.png" height="375" width="183" />
+    <img src="https://github.com/diogomfc/appMetaSmart/blob/master/src/img/ImgTelas/extratoClienteEstavel.png" height="375" width="183" />
+    <img src="https://github.com/diogomfc/appMetaSmart/blob/master/src/img/ImgTelas/extratoClienteInstavel.png" height="375" width="183" />
+    <img src="https://github.com/diogomfc/appMetaSmart/blob/master/src/img/ImgTelas/extratoClienteChurn.png" height="375" width="183" />
+    <img src="https://github.com/diogomfc/appMetaSmart/blob/master/src/img/ImgTelas/ativacao.png" height="375" width="183" />
+    <img src="https://github.com/diogomfc/appMetaSmart/blob/master/src/img/ImgTelas/migracao.png" height="375" width="183" />
+    <img src="https://github.com/diogomfc/appMetaSmart/blob/master/src/img/ImgTelas/prospeccao.png" height="375" width="183" />	
 </h6>
 
 
