@@ -24,7 +24,7 @@ Projeto desenvolvido para finalidades particular. O objetivo deste documento é 
 
 ## ⚙️ Funcionalidades
 
-- [x] Os usuários tem acesso ao aplicativo móvel, onde podem:
+- Os usuários tem acesso ao aplicativo móvel, onde podem:
   - [x] Metas - Gerenciamento das metas pessoais e da empresa. 
   - [x] Extrato – Relatório Resumido e Detalhado por período da carteira com filtros por clientes. 
   - [x] Prospecção – Ferramenta que usa Geolocalização para prospectar futuros clientes com filtro por ramo de atividade. 
@@ -67,7 +67,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[React Native Maps](https://github.com/react-native-community/react-native-maps)**
 -   **[Expo Constants](https://docs.expo.io/versions/latest/sdk/constants/)**
 -   **[React Native SVG](https://github.com/react-native-community/react-native-svg)**
--   **[Axios](https://github.com/axios/axios)**
 -   **[Expo Location](https://docs.expo.io/versions/latest/sdk/location/)**
 -   **[Expo Mail Composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)**
 
@@ -78,9 +77,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   Protótipo:  **[Adobe XD](https://www.adobe.com/br/products/xd.html)**  →  **[Protótipo (MetaSmart)](https://www.adobe.com/br/products/xd.html)**
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**  → Extensions:  **[SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)**
 -   Commit Conventional:  **[Commitlint](https://github.com/conventional-changelog/commitlint)**
--   Teste de API:  **[Insomnia](https://insomnia.rest/)**
 -   Ícones:  **[Feather Icons](https://feathericons.com/)**,  **[Font Awesome](https://fontawesome.com/)**
--   Fontes:  **[Ubuntu](https://fonts.google.com/specimen/Ubuntu)**,  **[Roboto](https://fonts.google.com/specimen/Roboto)**
 
 
 ---
