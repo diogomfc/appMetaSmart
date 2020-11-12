@@ -24,7 +24,7 @@ Projeto desenvolvido para finalidades particular. O objetivo deste documento é 
 
 ## ⚙️ Funcionalidades
 
-- Os usuários tem acesso ao aplicativo móvel, onde podem:
+- Os usuários tem acesso as seguintes funcionalidades no aplicativo móvel:
   - [x] Metas - Gerenciamento das metas pessoais e da empresa. 
   - [x] Extrato – Relatório Resumido e Detalhado por período da carteira com filtros por clientes. 
   - [x] Prospecção – Ferramenta que usa Geolocalização para prospectar futuros clientes com filtro por ramo de atividade. 
